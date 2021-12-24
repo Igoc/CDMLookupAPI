@@ -1,0 +1,5 @@
+# Python Caches
+**/__pycache__/
+
+# Shell Scripts
+**/*.sh
